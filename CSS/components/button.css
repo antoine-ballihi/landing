@@ -1,0 +1,40 @@
+
+.btn-purple {
+	background-color: #B5AAF9;
+	padding: 15px 40px;
+	border-radius: 4px;
+	color: whitesmoke;
+	font-weight: bold;
+	font-family: Cookie;
+	font-size: 25px;
+}
+
+.btn-intext:hover {
+	color: #B5CAF8
+}
+ 
+.btn-intext {
+	color: #8CA2FF;
+}
+ 
+.btn-img {
+	color: #8AC3EE;
+}
+ 
+.btn-img:hover {
+	color: #B7AAF9;
+}
+ 
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+ 
+.list-inline li {
+	display: inline;
+	padding: 30px;
+}
+ 
+.list-inline i {
+	font-size: 80px;
+ 

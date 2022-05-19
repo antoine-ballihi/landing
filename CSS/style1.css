@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Lato:ital,wght@0,700;0,900;1,700&family=Noto+Sans+KR&family=Parisienne&family=Playfair+Display:ital,wght@0,400;0,800;1,400&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card-black.css");
+
+body {
+	font-family: 'Bodini', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-image:url(https://www.bing.com/images/search?view=detailV2&ccid=0GARQqDw&id=5C204857E7B8B076B451A33F592C887DD2FDDBC0&thid=OIF.H79lVrqnz2ZNveP5qFpl%2bg&mediaurl=https%3a%2f%2fimages.prismic.io%2ffft-rg-commun-news%2f72833462-019f-4942-a112-f20d1bf0cf14_Balle%2bRoland-Garros%2b2022%2b-%2bChristophe%2bGuibbaud%2bFFT.jpg%3fauto%3dcompress%2cformat&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d0601142a0f09b44d83da2e18f1f797c%3frik%3d%26pid%3dImgRaw%26r%3d0&exph=1996&expw=3000&q=roland+garros+2022&simid=6956024679949&FORM=IRPRST&ck=1FBF6556BAA7CF664DBDE3F9A85A65FA&selectedIndex=1&ajaxhist=0&ajaxserp=0.jpg);
+	
+	
+}
+
+h1, h3 {
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+h1, h2 {
+	font-family: 'Venetian';
+}
+
+h3 {
+	font-family: Garamond;
+}
+
+a {
+	text-decoration: none;
+}
+
+#img-bottom { 
+	position: relative; height: 200px
+}
+#img-bottom img { 
+	position: absolute; bottom: 50; 
+}
+#logo2 { 
+	left: auto; right: 2000
+}
+
+#logo1 {
+	right: auto; left: 50;
+}
+
+
+ 
+
+
+
+
+
+
+
+ 

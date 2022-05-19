@@ -1,0 +1,10 @@
+.card-black {
+	background-color: white;
+    padding: 60px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 5px;
+    padding-bottom: 110px;
+    margin: 50px 0px;
+    text-align: center;
+
+}
